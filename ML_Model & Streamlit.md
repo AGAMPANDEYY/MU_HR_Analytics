@@ -10,6 +10,7 @@ First, we worked on Pre-Processing the dataset,
   ### The results of each model:
 
 - Logistic Regression(Without SMOTE train dataset)- 85.48% Accuracy and F1 score-- (Attrition No)0.92 and (Attrition Yes)0.0
+  
   <img src="https://github.com/AGAMPANDEYY/MU_HR_Analytics/assets/94832116/38cee7fd-85a1-4cb6-8cb8-f67b35d0769b" width="700" height="300">
 - Random Forest Classifier- 91.38% Accuracy and F1 Score --(Attrition No)0.95 and (Attrition Yes)0.60
   <img src="https://github.com/AGAMPANDEYY/MU_HR_Analytics/assets/94832116/27869054-6db4-40ca-bfd6-aba712d23ab6" width="700" height="300">
