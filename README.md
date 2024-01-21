@@ -10,3 +10,10 @@ The competition was a 3 round challenge.
 
 
 ## Our Team-Meow was among Top 9 in the Finals out of 100+ Teams
+
+## Members
+
+- Hemant Bidasaria
+- Moulik Gupta
+- Agam Pandey
+- Hemanth Reddy
